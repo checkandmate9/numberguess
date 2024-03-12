@@ -18,10 +18,10 @@ function gönder(){
     
      }
     else if (guess < answer){
-    alert(" Try smaller!")
+    alert(" Try larger!")
      }
     else {
-    alert("Try larger!")
+    alert("Try smaller!")
     }
     
 
