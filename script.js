@@ -32,3 +32,4 @@ document.getElementById("guessField").addEventListener("keyup", function(e){
     }
     
 });
+console.log(answer);
